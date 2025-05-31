@@ -27,11 +27,7 @@ Sebuah script pekerjaan bus untuk framework **QBCore** di FiveM. Pemain dapat me
 
 ## 📁 Instalasi
 
-1. **Download atau clone** repo ini ke dalam folder `resources/[local]`:
-
-```bash
-git clone https://github.com/username/qb-busjob.git
-```
+1. **Download ** repo ini ke dalam folder `resources/[local]`:
 
 2. **Tambahkan ke `server.cfg`:**
 
